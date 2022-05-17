@@ -1,0 +1,6 @@
+ccc,, praleistas slaptažodis
+,ccc, prisijungimo vardas praleistas
+,, nieko neįvesta
+nnn,nnn, nėra tokio vartotojo
+algis,aaa, toks yra, bet ne tas slaptažodis
+ccc,ccc, viskas teisingai

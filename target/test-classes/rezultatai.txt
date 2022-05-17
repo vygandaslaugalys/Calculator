@@ -1,0 +1,32 @@
+PA1PS1 testas: Naujo vartotojo registracija (pozityvus ir negatyvus testas).
+Klaida PA1PS1: 'Toks vartotojo vardas jau egzistuoja'. Lentelė1.txt, eil.1
+Klaida PA1PS1: 'Šį laukelį būtina užpildyti
+Privaloma įvesti bent 3 simbolius'. Lentelė1.txt, eil.1
+Klaida PA1PS1: 'Įvesti slaptažodžiai nesutampa'. Lentelė1.txt, eil.1
+Klaida PA1PS1: 'Toks vartotojo vardas jau egzistuoja'. Lentelė1.txt, eil.2
+PA1PS1: 'Ok'. Lentelė1.txt, eil.2
+Klaida PA1PS1: 'Įvesti slaptažodžiai nesutampa'. Lentelė1.txt, eil.2
+Klaida PA1PS1: 'Privaloma įvesti nuo 3 iki 32 simbolių'. Lentelė1.txt, eil.3
+PA1PS1: 'Ok'. Lentelė1.txt, eil.3
+PA1PS1: 'Ok'. Lentelė1.txt, eil.3
+Klaida PA1PS1: 'Toks vartotojo vardas jau egzistuoja'. Lentelė1.txt, eil.4
+PA1PS1: 'Ok'. Lentelė1.txt, eil.4
+Klaida PA1PS1: 'Įvesti slaptažodžiai nesutampa'. Lentelė1.txt, eil.4
+Klaida PA1PS1: 'Toks vartotojo vardas jau egzistuoja'. Lentelė1.txt, eil.5
+Klaida PA1PS1: 'Privaloma įvesti bent 3 simbolius'. Lentelė1.txt, eil.5
+PA1PS1: 'Ok'. Lentelė1.txt, eil.5
+Klaida PA1PS1: 'Toks vartotojo vardas jau egzistuoja'. Lentelė1.txt, eil.6
+PA1PS1: 'Ok'. Lentelė1.txt, eil.6
+PA1PS1: 'Ok'. Lentelė1.txt, eil.6
+Klaida PA1PS1: 'Toks vartotojo vardas jau egzistuoja'. Lentelė1.txt, eil.7
+PA1PS1: 'Ok'. Lentelė1.txt, eil.7
+PA1PS1: 'Ok'. Lentelė1.txt, eil.7
+PA2PS1 testas: Esamo vartotojo prisijungimas (pozityvus ir negatyvus testas).
+Klaida PA2PS1: 'Įvestas prisijungimo vardas ir/ arba slaptažodis yra neteisingi'. Lentelė2.txt, eil.1
+Klaida PA2PS1: 'Įvestas prisijungimo vardas ir/ arba slaptažodis yra neteisingi'. Lentelė2.txt, eil.2
+Klaida PA2PS1: 'Įvestas prisijungimo vardas ir/ arba slaptažodis yra neteisingi'. Lentelė2.txt, eil.3
+Klaida PA2PS1: 'Įvestas prisijungimo vardas ir/ arba slaptažodis yra neteisingi'. Lentelė2.txt, eil.4
+Klaida PA2PS1: 'Įvestas prisijungimo vardas ir/ arba slaptažodis yra neteisingi'. Lentelė2.txt, eil.5
+PA2PS1: 'Ok'. Lentelė2.txt, eil.6
+PA3PS1 testas: Vartotojo atsijungimas (pozityvus testas).
+PA3PS1: pavyko atsijungti.

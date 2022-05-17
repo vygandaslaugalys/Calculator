@@ -1,0 +1,7 @@
+aaa,,aaa, praleistas slaptažodis
+aaa,aaa,, praleistas slaptažodio pakartojimas
+aa,aaa,aaa, per trumpas prisijungimo vardas
+aaa,aaa,bbb, neteisingai pakartotas slaptožodis
+aaa,aa,aa, per trumpas slaptažodis
+aaa,aaa,aaa, užpildyta pilnai visa forma
+ccc,ccc,ccc, užpildyta pilnai visa forma, bet vartotojas jau registruotas
